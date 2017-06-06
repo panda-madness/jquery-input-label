@@ -7,5 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Margulan Baimbet",
-  "license": "ISC"
+  "license": "ISC",
+
+  "repository" :
+  { "type" : "git",
+    "url" : "https://github.com/panda-madness/jquery-input-label.git"
+  }
 }
