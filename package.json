@@ -1,0 +1,11 @@
+{
+  "name": "jquery-input-label",
+  "version": "1.0.0",
+  "description": "A simple plugin that fetches the assosiated label of an input, and vice versa",
+  "main": "jquery-input-labels.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Margulan Baimbet",
+  "license": "ISC"
+}
